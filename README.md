@@ -1,4 +1,4 @@
-# PlanT : Preference + Trend + AI = Your own Plan T!
+# 🌱PlanT : Preference + Trend + AI = Your own Plan T!
 
 ### Summary :
 ### Target :
